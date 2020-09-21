@@ -8,9 +8,12 @@ Numpad4::  Winset, Alwaysontop, , A
 
 ; Set Volume 0 
 Numpad3:: SoundSet, 0
+NumpadPgDn:: SoundSet, 0
 
 ; Set Volume 0 
 Numpad6:: SoundSet, 50
+NumpadRight::SoundSet, 50
 
 ; Set Volume 0 
 Numpad9:: SoundSet, 100
+NumpadPgUp:: SoundSet, 100
